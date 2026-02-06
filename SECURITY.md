@@ -16,7 +16,7 @@
 ### روش‌های گزارش:
 
 **1. ایمیل امنیتی (توصیه شده):**
-📧 **security@cafepersians.com**
+📧 **cafepersians@gmail.com**
 
 **2. ایسیو اختصاصی:**
 🔗 [ایجاد ایسیو امنیتی](https://github.com/TechForAll1373/CafePersians-Security-Gateway/issues/new?labels=security)
