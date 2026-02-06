@@ -1,150 +1,75 @@
-# ☕ کافه‌پرشین | CafePersians
+# 🛡️ CafePersians Security Gateway | درگاه امن کافه‌پرشین
 
-<div align="center">
+[![Version](https://img.shields.io/badge/version-v2.0.0-blue.svg)](https://github.com/TechForAll1373/CafePersians-Security-Gateway)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Language](https://img.shields.io/badge/language-Persian%20%7C%20English-blueviolet)](README.md)
+[![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen.svg)](https://github.com/TechForAll1373/CafePersians-Security-Gateway)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-2.0.0-green.svg)](https://github.com/CafePersians/CafePersians-Security-Gateway/releases)
-[![Language](https://img.shields.io/badge/language-Persian%20%7C%20English-blueviolet.svg)](README.md)
-[![Status](https://img.shields.io/badge/status-Active-success.svg)](https://github.com/CafePersians)
+<div dir="rtl">
 
-**درگاه امن پردازش داده | نسخه حرفه‌ای**  
-**Secure Data Processing Gateway | Professional Edition**
+## 📋 فهرست مطالب (فارسی)
 
-⚡ پردازش امن، سریع و محلی | 🔒 هیچ اطلاعاتی ذخیره نمی‌شود  
-⚡ Fast, Secure & Local Processing | 🔒 No Data Storage
-
-[![GitHub stars](https://img.shields.io/github/stars/CafePersians/CafePersians-Security-Gateway?style=social)](https://github.com/CafePersians/CafePersians-Security-Gateway/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/CafePersians/CafePersians-Security-Gateway?style=social)](https://github.com/CafePersians/CafePersians-Security-Gateway/network)
-[![GitHub watchers](https://img.shields.io/github/watchers/CafePersians/CafePersians-Security-Gateway?style=social)](https://github.com/CafePersians/CafePersians-Security-Gateway/watchers)
+- [معرفی پروژه](#معرفی-پروژه)
+- [امکانات کلیدی](#امکانات-کلیدی)
+- [نحوه نصب](#نحوه-نصب)
+- [مستندات](#مستندات)
+- [حمایت مالی](#حمایت-مالی)
+- [مشارکت در پروژه](#مشارکت-در-پروژه)
+- [لایسنس](#لایسنس)
 
 </div>
 
 ---
 
-## 📖 فهرست مطالب | Table of Contents
+## 🎯 Project Overview | معرفی پروژه
 
-<details>
-<summary><strong>فارسی</strong></summary>
+### English Version
 
-- [معرفی پروژه](#معرفی-پروژه)
-- [ویژگی‌های کلیدی](#ویژگی‌های-کلیدی)
-- [زبان‌های برنامه‌نویسی](#زبان‌های-برنامه‌نویسی)
-- [نصب و راه‌اندازی](#نصب-و-راه‌اندازی)
-- [ساختار پروژه](#ساختار-پروژه)
-- [حمایت مالی](#حمایت-مالی)
-- [شبکه حامیان](#شبکه-حامیان)
-- [مشارکت](#مشارکت)
-- [لایسنس](#لایسنس)
+**CafePersians Security Gateway** is a professional, advanced, and comprehensive security processing gateway designed for data protection, encryption, and secure local processing. This gateway ensures complete privacy with zero data storage and lightning-fast performance.
 
-</details>
+### نسخه فارسی
 
-<details>
-<summary><strong>English</strong></summary>
-
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Programming Languages](#programming-languages)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Financial Support](#financial-support)
-- [Supporter Network](#supporter-network)
-- [Contributing](#contributing)
-- [License](#license)
-
-</details>
+**درگاه امن کافه‌پرشین** یک درگاه پردازش امن حرفه‌ای، پیشرفته و جامع است که برای محافظت از داده‌ها، رمزنگاری و پردازش امن محلی طراحی شده است. این درگاه با عدم ذخیره‌سازی داده‌ها و عملکرد فوق‌سریع، حریم خصوصی کامل را تضمین می‌کند.
 
 ---
 
-## 🎨 معرفی پروژه | Project Overview
+## ✨ ویژگی‌های کلیدی | Key Features
 
-### فارسی
-
-**کافه‌پرشین** یک درگاه امن و پیشرفته برای پردازش داده‌هاست که با رویکردی کاملاً محلی و امن طراحی شده است. این پروژه ابزارهای امنیتی قدرتمندی را برای توسعه‌دهندگان ارائه می‌دهد که شامل مبهم‌سازی، رمزگشایی، پاک‌سازی و پردازش اطلاعات می‌شود.
-
-**ویژگی‌های اصلی:**
-- ✅ پردازش کاملاً محلی (بدون ارسال داده به سرور)
-- ✅ حفظ حریم خصوصی کامل
-- ✅ سرعت بالا و عملکرد بهینه
-- ✅ ابزارهای امنیتی پیشرفته
-- ✅ رابط کاربری مدرن و کاربرپسند
-- ✅ پشتیبانی دو زبانه (فارسی/انگلیسی)
+| ویژگی | توضیح | فناوری |
+|-------|-------|--------|
+| 🔒 **پردازش کاملاً امن** | هیچ اطلاعاتی ذخیره نمی‌شود | Local Processing |
+| ⚡ **سرعت فوق‌العاده** | پردازش فوری و بدون تأخیر | Optimized Algorithms |
+| 🌐 **دو زبانه** | پشتیبانی کامل فارسی و انگلیسی | i18n Support |
+| 🎨 **رابط کاربری مدرن** | طراحی زیبا و کاربرپسند | Modern UI/UX |
+| 🔓 **ابزارهای امنیتی** | مبهم‌سازی، رمزگشایی، پاک‌سازی | Security Tools |
 
 ---
 
-### English
+## 🛠️ فناوری‌های استفاده شده | Technologies Used
 
-**CafePersians** is an advanced and secure data processing gateway designed with a completely local and secure approach. This project provides powerful security tools for developers, including obfuscation, decryption, cleanup, and information processing.
-
-**Main Features:**
-- ✅ Completely local processing (no data sent to servers)
-- ✅ Complete privacy preservation
-- ✅ High speed and optimized performance
-- ✅ Advanced security tools
-- ✅ Modern and user-friendly interface
-- ✅ Bilingual support (Persian/English)
+| فناوری | نسخه | نقش |
+|--------|------|-----|
+| **HTML5** | Latest | ساختار اصلی |
+| **CSS3** | Latest | استایل‌دهی |
+| **JavaScript** | ES6+ | منطق پروژه |
+| **Node.js** | 18.x+ | Backend (Optional) |
+| **Webpack** | 5.x | Build Tool |
 
 ---
 
-## ⚡ ویژگی‌های کلیدی | Key Features
+## 📦 نحوه نصب و راه‌اندازی | Installation & Setup
 
-| ویژگی | توضیح | فایده |
-|-------|-------|-------|
-| 🔒 **پردازش محلی** | تمام پردازش‌ها در مرورگر انجام می‌شود | حفظ حریم خصوصی |
-| 🎨 **رابط کاربری** | طراحی مدرن و واکنش‌گرا | تجربه کاربری عالی |
-| 🚀 **سرعت بالا** | پردازش فوری بدون تأخیر | کارایی بهینه |
-| 🔐 **امنیت** | هیچ داده‌ای ذخیره نمی‌شود | امنیت کامل |
-| 📋 **ابزارهای متنوع** | مبهم‌سازی، رمزگشایی، پاک‌سازی | کاربردهای گسترده |
-| 🌐 **چندزبانه** | پشتیبانی فارسی و انگلیسی | دسترسی جهانی |
-
-| Feature | Description | Benefit |
-|---------|-------------|---------|
-| 🔒 **Local Processing** | All processing done in browser | Privacy preservation |
-| 🎨 **UI/UX** | Modern responsive design | Excellent user experience |
-| 🚀 **High Speed** | Instant processing | Optimal efficiency |
-| 🔐 **Security** | No data storage | Complete security |
-| 📋 **Tools** | Obfuscation, decryption, cleanup | Wide applications |
-| 🌐 **Multilingual** | Persian & English support | Global access |
-
----
-
-## 💻 زبان‌های برنامه‌نویسی | Programming Languages
-
-### 🔧 تکنولوژی‌های استفاده شده
-
-| دسته‌بندی | تکنولوژی | نسخه | نقش |
-|-----------|----------|------|-----|
-| **فرانت‌اند** | HTML5 | Latest | ساختار اصلی |
-| | CSS3 | Latest | استایل‌دهی |
-| | JavaScript (ES6+) | Latest | منطق برنامه |
-| **فریمورک‌ها** | - | - | بدون فریمورک سنگین |
-| **کتابخانه‌ها** | - | - | بهینه‌سازی شده |
-| **ابزارها** | Git | Latest | مدیریت نسخه |
-| | GitHub | Latest | هاستینگ کد |
-
-### 🛠️ Technologies Used
-
-| Category | Technology | Version | Role |
-|----------|------------|---------|------|
-| **Frontend** | HTML5 | Latest | Core structure |
-| | CSS3 | Latest | Styling |
-| | JavaScript (ES6+) | Latest | Application logic |
-| **Frameworks** | - | - | No heavy frameworks |
-| **Libraries** | - | - | Optimized |
-| **Tools** | Git | Latest | Version control |
-| | GitHub | Latest | Code hosting |
-
----
-
-## 🚀 نصب و راه‌اندازی | Installation
-
-### روش ۱: کلون کردن مخزن
+### نصب سریع (فارسی)
 
 ```bash
 # کلون کردن مخزن
-git clone https://github.com/CafePersians/CafePersians-Security-Gateway.git
+git clone https://github.com/TechForAll1373/CafePersians-Security-Gateway.git
 
 # ورود به دایرکتوری
 cd CafePersians-Security-Gateway
 
-# باز کردن فایل HTML در مرورگر
-open index.html
+# نصب وابستگی‌ها (در صورت نیاز)
+npm install
+
+# اجرای پروژه
+npm start
